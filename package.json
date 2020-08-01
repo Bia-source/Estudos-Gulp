@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Bia-source/Estudos-Gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1"
   }
 }
